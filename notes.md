@@ -1,6 +1,6 @@
 # 🚀 Day 2 – IAM Deep Dive (AWS)
 
-## 🎯 Topics Covered
+## Topics Covered
 
 * IAM Roles
 * IAM Policies
@@ -9,25 +9,25 @@
 
 ---
 
-## 🧠 Quick Concepts (Simple + Clear)
+## Quick Concepts (Simple + Clear)
 
-### 🔐 IAM Roles
+### IAM Roles
 
 IAM Roles provide **temporary, secure access** without sharing credentials.
 
-👉 Example:
+Example:
 An EC2 instance accesses S3 using a role — no need to store access keys.
 
-⚡ Key Point:
+Key Point:
 Roles = **temporary + secure + scalable**
 
 ---
 
-### 📜 IAM Policies
+### IAM Policies
 
 Policies define **who can do what on which resource**.
 
-👉 Attached to:
+   Attached to:
 
 * Users
 * Groups
@@ -38,31 +38,31 @@ Policies = **rules (Allow / Deny actions)**
 
 ---
 
-### 🔑 Multi-Factor Authentication (MFA)
+###  Multi-Factor Authentication (MFA)
 
 MFA adds an extra security layer beyond passwords.
 
-👉 Requires:
+   Requires:
 
 * Something you know → Password
 * Something you have → OTP / Authenticator
 
-⚡ Key Point:
+   Key Point:
 Even if password is hacked → account is still protected
 
 ---
 
-### 📊 IAM Credential Reports
+###  IAM Credential Reports
 
 Provides a **security overview of all users** in the account.
 
-👉 Includes:
+   Includes:
 
 * Password usage
 * Access key activity
 * MFA enabled or not
 
-⚡ Key Point:
+   Key Point:
 Used for **security auditing + monitoring**
 
 ---
@@ -78,9 +78,8 @@ Used for **security auditing + monitoring**
 
 ---
 
-## 🖼️ Screenshots
 
-## 🖼️ Screenshots
+## Pictures
 
 <p align="center">
   <img src="images/page1.jpeg" width="450">
@@ -103,7 +102,7 @@ Used for **security auditing + monitoring**
 </p>
 
 
-## 🧠 Real-World Scenario
+## Real-World Scenario
 
 Imagine a company where:
 
@@ -118,18 +117,18 @@ Imagine a company where:
 * Enable **MFA** for all users
 * Monitor using **Credential Reports**
 
-💡 This is how real companies secure AWS.
+This is how real companies secure AWS.
 
 ---
 
-## 🚧 Challenges Faced
+##  Challenges Faced
 
 * Confusion between Roles vs Policies
 * Understanding permission attachment flow
 
 ---
 
-## 💡 Key Insight
+##  Key Insight
 
 Security in AWS is not optional — it is the foundation.
 **Misconfigured permissions = biggest real-world risk**
