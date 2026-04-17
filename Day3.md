@@ -65,8 +65,8 @@ S3 provides reliable and secure storage with flexible access management.
 ## 🪣 S3 Bucket Configuration
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/341ce89c-2053-43c1-bc21-d1021eadd1e9" width="380"/>
-  <img src="https://github.com/user-attachments/assets/c6644cf3-3c1e-47ea-8abb-2db33e7003c5" width="380"/>
+  <img src="https://github.com/user-attachments/assets/341ce89c-2053-43c1-bc21-d1021eadd1e9" width="260"/>
+  <img src="https://github.com/user-attachments/assets/c6644cf3-3c1e-47ea-8abb-2db33e7003c5" width="260"/>
 </p>
 
 <p align="center">
@@ -78,7 +78,7 @@ S3 provides reliable and secure storage with flexible access management.
 ## Final Output 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/040c6201-cc0b-465b-8c2c-5c33b6cf0198" width="500"/>
+  <img src="https://github.com/user-attachments/assets/040c6201-cc0b-465b-8c2c-5c33b6cf0198" width="260"/>
 </p>
 
 <p align="center">
