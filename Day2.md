@@ -82,7 +82,16 @@ Used for **security auditing + monitoring**
 ## Pictures
 
 
-<img width="600" height="800" alt="WhatsApp Image 2026-04-15 at 9 26 15 PM" src="https://github.com/user-attachments/assets/45fef273-9064-418a-9030-6a1743da4836" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/45fef273-9064-418a-9030-6a1743da4836" width="45%" />
+  <img src="https://github.com/user-attachments/assets/acbe5bcc-172e-4823-9364-145cee878443" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8b99964f-f58d-463f-ba4b-5e0f925bad0a" width="45%" />
+  <img src="https://github.com/user-attachments/assets/5d034ba3-9416-48b3-b0e9-b789f7e01dff" width="45%" />
+</p>
+
 
 <p align="center">
   <em>IAM Policies & Credential Report</em>
