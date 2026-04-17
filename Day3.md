@@ -51,7 +51,8 @@ S3 provides reliable and secure storage with flexible access management.
 
 ### Cross Account Access Setup
 <p align="center">
-  <img src="Day03/images/page1.jpeg" width="300">
+  <img width="300" height="300" alt="WhatsApp Image 2026-04-16 at 10 50 56 PM" src="https://github.com/user-attachments/assets/d36d1d5e-9d1d-47a5-abfc-9d15681d4b17" />
+
   <img src="Day03/images/page2.jpeg" width="300">
 </p>
 <p align="center">
