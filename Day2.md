@@ -81,21 +81,8 @@ Used for **security auditing + monitoring**
 
 ## Pictures
 
-<p align="center">
-  <img src="images/page1.jpeg" width="450">
-  <img src="images/page2.jpeg" width="450">
-</p>
 
-<p align="center">
-  <em>IAM Role Setup & MFA Configuration</em>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="images/page3.jpeg" width="450">
-  <img src="images/page4.jpeg" width="450">
-</p>
+<img width="1200" height="1600" alt="WhatsApp Image 2026-04-15 at 9 26 15 PM" src="https://github.com/user-attachments/assets/45fef273-9064-418a-9030-6a1743da4836" />
 
 <p align="center">
   <em>IAM Policies & Credential Report</em>
