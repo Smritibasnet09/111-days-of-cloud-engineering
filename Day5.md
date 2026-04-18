@@ -165,7 +165,7 @@ An advanced event routing service that captures and processes S3 events with mor
 
 ### Quick Memory
 
-EventBridge = Advanced event filtering and routing system for scalable applications
+EventBridge = Advanced event filtering and routing system for scalable application.
 
 ---
 
