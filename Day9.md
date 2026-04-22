@@ -23,7 +23,7 @@ If many users access an application at the same time, instead of sending all req
 
 ---
 
-### 🟢 1. Application Load Balancer (ALB)
+### 1. Application Load Balancer (ALB)
 
 - Works at **Layer 7 (Application Layer)**
 - Supports **HTTP and HTTPS**
@@ -32,4 +32,7 @@ If many users access an application at the same time, instead of sending all req
   - Hostname
   - Headers
 
-👉 Example:
+Ex: 
+login → EC2 Instance 1
+, cart → EC2 Instance 2
+
