@@ -2,7 +2,7 @@
 
 ---
 
-# 🌐 1. Load Balancing
+# 1. Load Balancing
 
 ## 🔹 What is Load Balancing?
 
@@ -79,7 +79,7 @@ login → EC2 Instance 1
 
 ---
 
-### 📌 1. DNS Name (Hostname)
+### 1. DNS Name (Hostname)
 
 Each load balancer has a DNS like: xxx.region.elb.amazonaws.com
 
@@ -87,7 +87,7 @@ Users access the application through this.
 
 ---
 
-### 📌 2. Target Group
+### 2. Target Group
 
 - A group of EC2 instances  
 - Load balancer sends traffic to this group  
@@ -97,7 +97,7 @@ Ex: Target Group → [EC2-1, EC2-2, EC2-3]
 
 ---
 
-### 📌 3. Private Traffic Handling
+### 3. Private Traffic Handling
 
 - EC2 instances can be in a **private subnet**
 - Load balancer receives public traffic and forwards it internally  
@@ -117,7 +117,7 @@ This improves security.
 
 ---
 
-## ⚠️ Cross-Zone Load Balancing
+## Cross-Zone Load Balancing
 
 ### 🔹 Enabled:
 - Traffic is evenly distributed across all availability zones  
