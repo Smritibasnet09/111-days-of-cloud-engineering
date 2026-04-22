@@ -36,3 +36,50 @@ Ex:
 login → EC2 Instance 1
 , cart → EC2 Instance 2
 
+
+
+### Use case:
+- Web applications  
+- Microservices  
+
+---
+
+### 2. Network Load Balancer (NLB)
+
+- Works at **Layer 4 (Transport Layer)**
+- Supports:
+  - TCP
+  - TLS
+  - UDP
+- Provides **static IP address**
+- High performance and low latency  
+
+### Use case:
+- Real-time systems  
+- Gaming servers  
+- Financial applications  
+
+---
+
+### 3. Gateway Load Balancer (GWLB)
+
+- Used for **security purposes**
+- Uses **GENEVE protocol**
+- Integrates with:
+  - Firewalls  
+  - Intrusion Detection Systems  
+
+### Use case:
+- Traffic inspection  
+- Security appliances  
+
+---
+
+## 🔹 Important Components
+
+---
+
+### 📌 1. DNS Name (Hostname)
+
+Each load balancer has a DNS like: xxx.region.elb.amazonaws.com
+
