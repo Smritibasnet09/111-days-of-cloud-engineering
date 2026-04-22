@@ -152,8 +152,7 @@ Auto Scaling automatically:
 ## 🔹 Desired Capacity
 
 - The number of EC2 instances you want running  
-
-Ex: Desired Capacity = 4
+like eg: Desired capacity up to 4
 
 
 
