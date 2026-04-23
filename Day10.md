@@ -35,7 +35,7 @@ Today I learned about **Amazon RDS (Relational Database Service)** and **Amazon 
 
 * **Memcached** → Multi-threaded, simple caching
 * **Redis** → More advanced, supports persistence & complex data
-* **TTL (Time To Live)** → Defines how long cached data stays valid
+* **TTL [Time to live]** → Defines how long cached data stays valid
 
 🔹 **Other Concepts**
 
@@ -43,3 +43,4 @@ Today I learned about **Amazon RDS (Relational Database Service)** and **Amazon 
 
 **Key Takeaway:**
 RDS makes database management easier, while Aurora takes performance and scalability to the next level.
+
