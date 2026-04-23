@@ -1,4 +1,4 @@
-**Day X of #111CodeForChange 🚀**
+**Day 10 of #111CodeForChange 🚀**
 **Topic: Amazon RDS & Aurora**
 
 Today I learned about **Amazon RDS (Relational Database Service)** and **Amazon Aurora**, and how AWS simplifies database management in the cloud.
@@ -41,7 +41,5 @@ Today I learned about **Amazon RDS (Relational Database Service)** and **Amazon 
 
 * Forward Proxy & Reverse Proxy basics for handling requests efficiently
 
-💡 **Key Takeaway:**
+**Key Takeaway:**
 RDS makes database management easier, while Aurora takes performance and scalability to the next level.
-
-#AWS #CloudComputing #LearningJourney #CodeForChange #DayX
