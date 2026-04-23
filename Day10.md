@@ -54,3 +54,15 @@ Some tricks to remember it :
 🔹 Aurora Global DB → Replicates data across regions for low-latency global access
 
 🔹 Automated Backups → Enable point-in-time recovery
+
+🔹 Snapshots → Manual backups stored until you delete them
+
+Failover → Automatic switch to standby DB in case of failure
+
+🔹 Aurora Storage → Auto-scales up to 128 TB without downtime
+
+🔹 Caching (Redis/Memcached) → Reduces DB load and improves performance
+
+🔹 TTL → Defines how long cached data remains valid
+
+🔹 DB Proxy → Manages connections to improve scalability and security
