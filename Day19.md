@@ -32,7 +32,7 @@ Lambda allows you to run code without managing servers. It runs only when trigge
 Example:
 When a user uploads a file to S3, a Lambda function can automatically resize the image.
 
-5. VPC (Virtual Private Cloud)
+**VPC (Virtual Private Cloud)**
 
 Explanation:
 VPC is a private network within AWS where you can launch resources securely. You can define IP ranges, subnets, and routing.
