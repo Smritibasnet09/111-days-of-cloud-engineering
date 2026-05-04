@@ -131,7 +131,7 @@ Spot: cheapest but can be interrupted
 Example:
 For temporary data processing jobs, Spot instances are a cost-effective option.
 
-16. Shared Responsibility Model
+**Shared Responsibility Model**
 
 Explanation:
 AWS manages infrastructure, while users are responsible for data, access control, and configurations.
