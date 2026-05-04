@@ -111,7 +111,7 @@ EFS: File storage (shared across multiple systems)
 Example:
 EBS is used as a hard disk for EC2, while EFS is used when multiple servers need shared access to files.
 
-14. High Availability (Multi-AZ)
+**High Availability (Multi-AZ)**
 
 Explanation:
 Multi-AZ means deploying resources in multiple data centers within the same region to ensure availability.
