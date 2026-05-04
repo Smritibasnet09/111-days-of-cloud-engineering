@@ -24,7 +24,7 @@ RDS is a managed database service that supports databases like MySQL, PostgreSQL
 Example:
 If your application needs to store user data (username, password, email), you can use RDS instead of installing and managing a database manually.
 
-4. Lambda (Serverless Computing)
+**Lambda (Serverless Computing)**
 
 Explanation:
 Lambda allows you to run code without managing servers. It runs only when triggered and charges only for execution time.
