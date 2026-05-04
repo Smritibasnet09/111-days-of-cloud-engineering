@@ -40,7 +40,7 @@ VPC is a private network within AWS where you can launch resources securely. You
 Example:
 You can place a database inside a private subnet (not accessible from the internet) and your application server in a public subnet.
 
-6. Subnets (Public and Private)
+**Subnets (Public and Private)**
 
 Explanation:
 Subnets divide a VPC into smaller networks.
