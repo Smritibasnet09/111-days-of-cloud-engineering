@@ -84,7 +84,7 @@ Auto Scaling automatically increases or decreases the number of EC2 instances ba
 Example:
 During peak hours, Auto Scaling adds more servers; during low traffic, it removes extra servers to save cost.
 
-11. CloudWatch
+**CloudWatch**
 
 Explanation:
 CloudWatch monitors AWS resources and provides metrics, logs, and alerts.
