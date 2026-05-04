@@ -76,7 +76,7 @@ A load balancer distributes incoming traffic across multiple servers to ensure r
 Example:
 If your website has high traffic, a load balancer will send requests to multiple EC2 instances instead of one, preventing overload.
 
-10. Auto Scaling
+**Auto Scaling**
 
 Explanation:
 Auto Scaling automatically increases or decreases the number of EC2 instances based on demand.
