@@ -92,7 +92,7 @@ CloudWatch monitors AWS resources and provides metrics, logs, and alerts.
 Example:
 You can set an alarm to notify you when CPU usage of an EC2 instance goes above 80%.
 
-12. CloudTrail
+**CloudTrail**
 
 Explanation:
 CloudTrail records all API activity and actions performed in your AWS account.
