@@ -8,7 +8,7 @@ EC2 is a virtual server in the cloud that allows you to run applications. You ca
 Example:
 If you want to host a web application (like a portfolio website), you can launch an EC2 instance, install a web server (like Apache), and deploy your site.
 
-2. S3 (Simple Storage Service)
+**S3 (Simple Storage Service)**
 
 Explanation:
 S3 is an object storage service used to store files such as images, videos, backups, and documents. It is highly durable and scalable.
