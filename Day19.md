@@ -60,7 +60,7 @@ NACL (Network ACL) works at the subnet level and is stateless.
 Example:
 A security group can allow HTTP (port 80) access to a web server, while NACL can block certain IP addresses at the subnet level.
 
-8. IAM (Identity and Access Management)
+**IAM (Identity and Access Management)**
 
 Explanation:
 IAM controls who can access AWS resources and what actions they can perform.
