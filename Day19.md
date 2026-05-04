@@ -16,7 +16,7 @@ S3 is an object storage service used to store files such as images, videos, back
 Example:
 If you are building a photo-sharing app, all user-uploaded images can be stored in S3 instead of storing them on a server.
 
-3. RDS (Relational Database Service)
+**RDS (Relational Database Service)**
 
 Explanation:
 RDS is a managed database service that supports databases like MySQL, PostgreSQL, and others. AWS handles backups, updates, and maintenance.
