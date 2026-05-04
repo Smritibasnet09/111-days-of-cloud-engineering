@@ -68,7 +68,7 @@ IAM controls who can access AWS resources and what actions they can perform.
 Example:
 You can create an IAM user for a developer and give permission to access only S3, not EC2.
 
-9. Load Balancer (ELB)
+**Load Balancer (ELB)**
 
 Explanation:
 A load balancer distributes incoming traffic across multiple servers to ensure reliability and performance.
