@@ -119,7 +119,7 @@ Multi-AZ means deploying resources in multiple data centers within the same regi
 Example:
 If one data center fails, your application continues running in another.
 
-15. Pricing Models
+**Pricing Models**
 
 Explanation:
 AWS offers different pricing models:
