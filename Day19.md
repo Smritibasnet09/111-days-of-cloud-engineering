@@ -100,7 +100,7 @@ CloudTrail records all API activity and actions performed in your AWS account.
 Example:
 If someone deletes a resource, CloudTrail logs who did it and when.
 
-13. Storage Types (S3, EBS, EFS)
+**Storage Types (S3, EBS, EFS)**
 
 Explanation:
 
