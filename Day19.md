@@ -1,5 +1,6 @@
 Learning of Today: AWS Important Exam Topics
-1. EC2 (Elastic Compute Cloud)
+
+**EC2 (Elastic Compute Cloud)**
 
 Explanation:
 EC2 is a virtual server in the cloud that allows you to run applications. You can choose the operating system, configure storage, and control networking. It gives full control like a physical computer but is hosted by AWS.
