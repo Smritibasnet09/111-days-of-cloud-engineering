@@ -51,7 +51,7 @@ Private subnet: not directly accessible
 Example:
 A web server is placed in a public subnet so users can access it, while a database is placed in a private subnet for security.
 
-7. Security Groups and NACL
+**Security Groups and NACL**
 
 Explanation:
 Security Groups act as a firewall at the instance level and are stateful.
