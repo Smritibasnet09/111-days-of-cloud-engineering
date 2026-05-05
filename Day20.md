@@ -87,7 +87,6 @@ It usually refers to:
 In AWS context:
 - You might use Java apps inside containers or serverless (like Lambda)
 
----
 
 ## **Serverless (Core Concept)**
 Serverless means:
