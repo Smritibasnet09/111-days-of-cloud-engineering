@@ -2,7 +2,7 @@
 
 ---
 
-## **AWS ECS (Elastic Container Service)**
+## **AWS Elastic Container Service**
 ECS is a fully managed service by AWS that helps you run and manage containers easily without worrying much about infrastructure.
 
 - You define tasks (what container to run)
