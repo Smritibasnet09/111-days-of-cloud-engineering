@@ -119,7 +119,7 @@ AWS provides backend features.
 **Example:**  
 Build a mobile app → AWS handles login + database.
 
----
+
 
 ### **3. Serverless Containers**
 Run containers without managing servers.
