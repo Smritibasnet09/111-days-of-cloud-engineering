@@ -62,7 +62,7 @@ You might be confusing with:
   - AWS CloudFormation (for infrastructure)
   - AWS Amplify (for frontend apps)
 
----
+
 
 ## **AWS App Runner**
 App Runner is the easiest way to run container-based web apps.
