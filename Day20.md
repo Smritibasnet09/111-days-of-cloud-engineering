@@ -76,7 +76,6 @@ App Runner is the easiest way to run container-based web apps.
 **Example:**  
 Upload your backend API → App Runner deploys it instantly → gives you a URL.
 
----
 
 ## **Java.net (Clarification)**
 Java.net is not an AWS service.
