@@ -108,7 +108,6 @@ Run small pieces of code on demand.
 **Example:**  
 Upload a function → runs when a file is uploaded to S3.
 
----
 
 ### **2. Backend as a Service (BaaS)**
 AWS provides backend features.
