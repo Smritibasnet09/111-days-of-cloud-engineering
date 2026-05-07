@@ -435,5 +435,7 @@ Spot Fleet:
 Used to reduce EC2 costs using Spot Instances.
 
 
+
+Today ,I also practice the MCQ in examprepper:
 ![alt text](image.png)
 ![alt text](image-1.png)
