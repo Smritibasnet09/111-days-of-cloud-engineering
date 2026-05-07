@@ -1,5 +1,3 @@
-# Day23.md
-
 # AWS Advanced Networking and Compute Services
 
 ---
