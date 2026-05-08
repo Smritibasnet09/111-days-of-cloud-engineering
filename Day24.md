@@ -8,7 +8,7 @@ Today, I learned important AWS networking and connectivity concepts used for sec
 * NAT Gateway is an AWS-managed and highly available service that provides scalable outbound internet access for private subnets.
 * Security Group works as a stateful firewall at the instance level to control inbound and outbound traffic.
 * NACL (Network ACL) is a stateless firewall at the subnet level used for controlling VPC traffic.
-* Ephemeral Ports are temporary ports used by clients for outgoing network connections.
+* Ephemeral Port are temporary ports used by clients for outgoing network connections.
 
 I also learned advanced VPC connectivity concepts:
 
