@@ -16,7 +16,7 @@ Example: Encrypt an S3 bucket using a KMS key.
 
 ## 3. Amazon CloudWatch
 
-Description: Monitoring service that tracks AWS resources and logs.
+Monitoring service that tracks AWS resources and logs.
 Example: Monitor EC2 CPU usage and set alerts.
 
 ---
