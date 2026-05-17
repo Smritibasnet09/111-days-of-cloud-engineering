@@ -2,7 +2,7 @@
 
 ## 1. AWS IAM (Identity and Access Management)
 
-Description: IAM is used to control who can access AWS services and resources.
+IAM is used to control who can access AWS services and resources.
 Example: Create a user who can access only S3 but not EC2.
 
 ---
