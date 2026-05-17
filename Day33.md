@@ -9,7 +9,7 @@ Example: Create a user who can access only S3 but not EC2.
 
 ## 2. AWS KMS (Key Management Service)
 
-Description: AWS service used to create and manage encryption keys.
+AWS service used to create and manage encryption keys.
 Example: Encrypt an S3 bucket using a KMS key.
 
 ---
