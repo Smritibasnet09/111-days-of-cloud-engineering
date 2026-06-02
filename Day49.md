@@ -1,4 +1,4 @@
-# AWS Emerging & Advanced Services (New Topics)
+# AWS Emerging & Advanced Services 
 
 ## 1. AWS App Runner
 
