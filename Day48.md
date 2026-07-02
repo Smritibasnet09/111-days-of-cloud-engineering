@@ -21,8 +21,6 @@ A serverless event bus that connects AWS services and applications using events.
 **Key Idea:**  
 It helps different services communicate without direct integration.
 
-**Example:**  
-When a file is uploaded to S3, EventBridge triggers a Lambda function to process it and send a notification.
 
 ---
 
