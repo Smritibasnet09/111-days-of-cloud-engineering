@@ -169,4 +169,4 @@ This design is widely used in modern cloud systems because:
 
 This architecture represents a complete modern data pipeline on AWS. It is commonly used in data engineering, analytics, and AI systems.
 
-Understanding this flow gives a strong foundation for advanced AWS concepts and real-world cloud architecture design.
+Understanding this flow gives a strong foundation for advanced AWS concepts and real-world cloud architecture.
